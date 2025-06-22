@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Welcome to my website!"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hi! My name is Yan Gu. I'm a Technical Product Manager based in San Francisco Bay Area. I work for a global tech company.
 
 ## Getting Started
 
