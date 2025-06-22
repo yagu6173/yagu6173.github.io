@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Yan Gu"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Yan Gu. I’m a Technical Product Manager based in the San Francisco Bay Area. Nice to know you and welcome to my personal website!
+I'm pursuing a post-bach degree in computer science in the University of Colorado, Boulder. This website is part of my coursework taking under a Professional Development course I'm taking in summer 2025.
+I'm over half ay throught the entire program, and I really enjoyed it so far! Wish me good luck!
