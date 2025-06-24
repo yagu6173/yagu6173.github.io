@@ -9,4 +9,4 @@ image: cutting.jpg
 
 Hi there! I'm Yan Gu. I’m a Technical Product Manager based in the San Francisco Bay Area. Nice to know you and welcome to my personal website!
 I'm pursuing a post-bach degree in computer science in the University of Colorado, Boulder. This website is part of my coursework taking under a Professional Development course I'm taking in summer 2025.
-I'm over half ay throught the entire program, and I really enjoyed it so far! Wish me good luck!
+I'm over half way throught the entire program, and I really enjoyed it so far! Wish me good luck!
