@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Under Construction"
+title: "My GitHub study notes"
 author: "Yan Gu"
 categories: journal
 tags: [documentation,sample]
